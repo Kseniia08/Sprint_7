@@ -1,5 +1,6 @@
-package TestsData;
+package TestsData.Courier;
 
+import TestsData.RestClient;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 
@@ -7,7 +8,7 @@ import static Constants.Constants.*;
 import static io.restassured.RestAssured.given;
 
 
-public class CourierClient  extends  RestClient {
+public class CourierClient  extends RestClient {
 
     //create
     @Step("Создание нового курьера {courier}")

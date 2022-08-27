@@ -1,8 +1,8 @@
 package CreateOrder;
 
-import TestsData.Order;
-import TestsData.OrderClient;
-import TestsData.OrderGenerator;
+import TestsData.Order.Order;
+import TestsData.Order.OrderClient;
+import TestsData.Order.OrderGenerator;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;

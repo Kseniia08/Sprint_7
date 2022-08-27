@@ -1,11 +1,12 @@
-package TestsData;
+package TestsData.Order;
 
+import TestsData.RestClient;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 
 import static io.restassured.RestAssured.given;
 
-public class OrderClient  extends  RestClient{
+public class OrderClient  extends RestClient {
     private static final String ORDER_PATH = "api/v1/orders";
 
     //создание заказа
