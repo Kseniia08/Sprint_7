@@ -1,0 +1,10 @@
+LoginCourier/LoginCourierPositiveTest.class
+CreateCourier/CreateCourierWithoutPasswordTest.class
+CreateCourier/CreateCourierWithoutLoginTest.class
+CreateOrder/CreateOrderTest.class
+LoginCourier/LoginCourierWithoutLoginTest.class
+LoginCourier/LoginCourierNegativeTest.class
+LoginCourier/LoginCourierWithoutPasswordTest.class
+OrderList/GetOrderListTest.class
+CreateCourier/CreateAnotherSimilarCourierTest.class
+CreateCourier/CreateCourierPositiveTest.class
