@@ -14,7 +14,6 @@ public class OrderGenerator {
                 COMMENT_DATA,
                 color);
 
-
     }
 
 
