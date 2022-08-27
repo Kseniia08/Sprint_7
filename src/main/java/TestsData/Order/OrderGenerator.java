@@ -15,11 +15,7 @@ public class OrderGenerator {
                 color);
 
 
-
-
     }
-
-
 
 
 }
