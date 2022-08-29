@@ -1,4 +1,4 @@
-package TestsData;
+package TestsData.Courier;
 
 public class Courier {
     //Описываю параметры курьера

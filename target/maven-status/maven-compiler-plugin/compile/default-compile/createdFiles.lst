@@ -1,9 +1,9 @@
-TestsData/OrderClient.class
-TestsData/Order.class
-TestsData/CourierCredentials.class
-TestsData/CourierClient.class
-TestsData/OrderGenerator.class
+TestsData/Courier/CourierCredentials.class
+TestsData/Order/OrderGenerator.class
+TestsData/Courier/Courier.class
 Constants/Constants.class
-TestsData/CourierGenerator.class
+TestsData/Courier/CourierClient.class
 TestsData/RestClient.class
-TestsData/Courier.class
+TestsData/Order/Order.class
+TestsData/Courier/CourierGenerator.class
+TestsData/Order/OrderClient.class

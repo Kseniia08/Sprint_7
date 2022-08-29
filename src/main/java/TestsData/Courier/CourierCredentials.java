@@ -1,4 +1,4 @@
-package TestsData;
+package TestsData.Courier;
 
 public class CourierCredentials {
     private String login;

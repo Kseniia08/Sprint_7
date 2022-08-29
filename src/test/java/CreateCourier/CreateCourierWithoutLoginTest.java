@@ -1,8 +1,8 @@
 package CreateCourier;
 
-import TestsData.Courier;
-import TestsData.CourierClient;
-import TestsData.CourierGenerator;
+import TestsData.Courier.Courier;
+import TestsData.Courier.CourierClient;
+import TestsData.Courier.CourierGenerator;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;

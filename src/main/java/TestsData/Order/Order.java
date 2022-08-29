@@ -1,4 +1,4 @@
-package TestsData;
+package TestsData.Order;
 
 public class Order {
     //создаем поля заказа

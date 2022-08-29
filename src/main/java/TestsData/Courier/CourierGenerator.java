@@ -1,4 +1,4 @@
-package TestsData;
+package TestsData.Courier;
 import static Constants.Constants.*;
 
 public class CourierGenerator {
